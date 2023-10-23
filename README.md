@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pullso
 - 👀 I’m interested in JavaScript fullstack development (Vue.js\Node.js\Nest.js)
 - 🌱 I’m currently learning Nest.js
-- 💞️ I’m looking to collaborate on some startups
+- 💞️ I’m looking for collaboration on some startups
 - 📫 How to reach me: telegram @pullso or linkedin: https://www.linkedin.com/in/pavel-dubitskii/
 
 <!---
